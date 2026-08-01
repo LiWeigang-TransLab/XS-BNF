@@ -102,7 +102,13 @@ This project's word-level annotations were produced through a multi-LLM pipeline
 
 ## License
 
-GNU General Public License v3.0 and related patent license.
+Code License: MIT (or GPLv3) — free to use, modify, and distribute.
+
+Patent Notice: The methods implemented in this repository are covered 
+by a patent registered with the Brazilian patent office (INPI). 
+A royalty-free patent license is granted for academic research and 
+educational use only. Commercial use requires a separate license — 
+please contact the authors.
 
 ## Citation
 
